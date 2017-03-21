@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\bin\Debug\ArcGisTest.exe
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\bin\Debug\ArcGisTest.pdb
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.exe
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.pdb
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\AxInterop.esriControls.dll
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.print.resources
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\bin\Debug\AxInterop.esriControls.dll
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.MainForm.resources
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.SymbolSelect.resources
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.TextChange.resources
+C:\Users\Administrator\Desktop\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.Property.resources
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\AxInterop.esriControls.dll
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.csproj.ResolveComReference.cache
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.exe
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.pdb
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\bin\Debug\ArcGisTest.exe
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\bin\Debug\ArcGisTest.pdb
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\bin\Debug\AxInterop.esriControls.dll
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.csprojResolveAssemblyReference.cache
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.MainForm.resources
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.Property.resources
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.Print.resources
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.Properties.Resources.resources
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.SymbolSelect.resources
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.TextChange.resources
+E:\Works\My Documents\Practice文件夹\ArcGisTest\ArcGisTest\obj\x86\Debug\ArcGisTest.csproj.GenerateResource.Cache
